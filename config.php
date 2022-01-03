@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Rapport Crypto',
+        'description' => 'Rapport Hayrapetyan Vladimir.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'Hayrapetyan Vladimir',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',

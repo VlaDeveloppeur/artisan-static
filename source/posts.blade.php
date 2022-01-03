@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
-@section('title', 'Posts')
+@section('title', 'Crypto')
 
 @section('content')
-    <h1>Posts</h1>
+    <h1>Chapitres</h1>
 
     <ul>
         @forelse ($posts->sortBy('title') as $post)

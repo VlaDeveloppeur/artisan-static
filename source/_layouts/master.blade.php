@@ -22,9 +22,9 @@
             <nav>
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/posts">Posts</a></li>
-                    <li><a href="/about">About</a></li>
+                    <li><a href="/">Acceuil</a></li>
+                    <li><a href="/posts">Crypto</a></li>
+                    <li><a href="/about">Autres</a></li>
                     <li><a href="/contact">Contact</a></li>
                 </ul>
             </nav>
@@ -39,9 +39,8 @@
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos &nbsp;&bull;&nbsp;
-                <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>
+                Rapport pour Crypto - Edition de Logiciels Immobiliers&nbsp;&bull;&nbsp;
+                <a href="https://github.com/VlaDeveloppeur/artisan-static">GitHub</a>
             </small>
         </footer>
     </section>
