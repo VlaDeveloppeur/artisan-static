@@ -31,6 +31,8 @@ Téléphone : 03 83 90 36 36
 ## Tuteur :
 
 Téléphone : 03 83 90 36 36
+
+
 Email : barret.pj@crypto.fr
 
 ## Missions :
@@ -41,8 +43,6 @@ Angular (Principalement)
 JavaScript/TypeScript (Principalement)
 PHP
 Zend Framework
-MySQL
-
-Autres :
+MySQL  Autres :
 Magento
 Modx
