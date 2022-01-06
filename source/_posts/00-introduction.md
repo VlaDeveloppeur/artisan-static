@@ -15,12 +15,24 @@ en France mais aussi dans de nombreux pays francophones.
 ## Informations :
 
 Site web : http://www.crypto.fr
+
+
 Secteurs : Immobilier
+
+
 Taille de l’entreprise : 45-50 employés
+
+
 Siège social : Nancy, Grand Est
+
+
 Type Société : civile/Société commerciale/Autres types de sociétés
+
+
 Domaines : logiciels, immobilier, logiciel syndic, logiciel administrateur de biens et
 logiciels immobilier
+
+
 Téléphone : 03 83 90 36 36
 
 ## Lieux :
@@ -32,13 +44,16 @@ Téléphone : 03 83 90 36 36
 
 Téléphone : 03 83 90 36 36
 
-
 Email : barret.pj@crypto.fr
 
 ## Missions :
 
 • Développement full-stack .Net, MySQL, PHP, JS
+
+
 • Création & hébergement de site
+
+Techno: 
 Angular (Principalement)
 JavaScript/TypeScript (Principalement)
 PHP
