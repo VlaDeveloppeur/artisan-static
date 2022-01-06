@@ -7,8 +7,8 @@ media_folder: images
 media_library:
   name: cloudinary
   config:
-    cloud_name: {{ $page->services->cloudinary->cloudName }}
-    api_key: {{ $page->services->cloudinary->apiKey }}
+    cloud_name: den5s58yx
+    api_key: 416559342259158
 site_url: {{ $page->baseUrl }}
 collections:
   - name: "posts"
