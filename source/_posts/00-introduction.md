@@ -16,22 +16,16 @@ en France mais aussi dans de nombreux pays francophones.
 
 Site web : http://www.crypto.fr
 
-
 Secteurs : Immobilier
-
 
 Taille de l’entreprise : 45-50 employés
 
-
 Siège social : Nancy, Grand Est
-
 
 Type Société : civile/Société commerciale/Autres types de sociétés
 
-
 Domaines : logiciels, immobilier, logiciel syndic, logiciel administrateur de biens et
 logiciels immobilier
-
 
 Téléphone : 03 83 90 36 36
 
@@ -50,7 +44,6 @@ Email : barret.pj@crypto.fr
 
 • Développement full-stack .Net, MySQL, PHP, JS
 
-
 • Création & hébergement de site
 
 Techno: 
@@ -61,3 +54,20 @@ Zend Framework
 MySQL  Autres :
 Magento
 Modx
+
+# L'équipe de travail :
+
+L’alternance se déroule dans un entreprise avec plusieurs openspaces.
+
+* La hotline
+* Les commerciaux
+* Les secrétaires
+* Les développeurs
+
+Le pôle de développeurs dans lequel je me trouve. Il est constitué d'un chargé de mission base de données et du réseaux, de trois développeurs 4D, de 4 développeurs Angular, et de deux chef de projet.
+
+
+
+# Objectif des développeurs Angular
+
+Re-Développer les applications utilisées par les employés de Crypto, les agences immobilière et leurs client pour en faire une application web en angular plus simple, plus modulaire, plus moderne, plus ouvert, qui intègre de nouvelles fonctionnalités et permet à chaque structure d’y intégrer des modules spécifiques.
