@@ -40,11 +40,9 @@ Téléphone : 03 83 90 36 36
 
 Email : barret.pj@crypto.fr
 
-## Missions :
+## Nom du travail :
 
 • Développement full-stack .Net, MySQL, PHP, JS
-
-• Création & hébergement de site
 
 Techno: 
 Angular (Principalement)
@@ -57,6 +55,8 @@ Modx
 
 # L'équipe de travail :
 
+![](https://res.cloudinary.com/den5s58yx/image/upload/v1641477658/Crypto/IMG_7070_ijw4iw.jpg)
+
 L’alternance se déroule dans un entreprise avec plusieurs openspaces.
 
 * La hotline
@@ -65,8 +65,6 @@ L’alternance se déroule dans un entreprise avec plusieurs openspaces.
 * Les développeurs
 
 Le pôle de développeurs dans lequel je me trouve. Il est constitué d'un chargé de mission base de données et du réseaux, de trois développeurs 4D, de 4 développeurs Angular, et de deux chef de projet.
-
-
 
 # Objectif des développeurs Angular
 
