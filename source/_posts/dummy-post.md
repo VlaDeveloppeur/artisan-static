@@ -1,48 +1,57 @@
 ---
-title: '01 - Dummy Post'
-date: 2020-10-28
-tags:
-  - css
-  - javascript
-  - php
-  - laravel
-image: https://res.cloudinary.com/artisanstatic/sample.jpg
+title: 01 - Adaptation à l'environnement de travail
+date: 2022-02-18
+tags: []
+image: https://res.cloudinary.com/den5s58yx/image/upload/v1645195321/Crypto/Capture_d_%C3%A9cran_du_2022-02-18_15-41-20_dxvbt4.png
+comments: true
 ---
-## Heading 2
+## Présentation et installation du poste :
 
-### Heading 3
 
-**Bold Text**
 
-*Italic Text*
+## Outils :
 
-This is [an example](http://example.com/ "Title") inline link.
+IDE : VSCODE
 
-[This link](http://example.net/) has no title attribute.
+LANGUAGE DEV : TYPESCRIPT AVEC FRAMEWORK ANGULAR
 
-Image - Jigsaw logo
+BDD : DBEAVER
 
-![Jigsaw logo](https://cloud.githubusercontent.com/assets/357312/25055001/5603687e-212e-11e7-8fad-0b33dbf7fb71.png)
+WEB SERVICE : POSTMAN (REQUETE VERS 4D)
 
-- Top-level item 1
-    - Nested item
-    - Nested item
-- Top-level item 2
-    - Nested item
-    - Nested item
-- Top-level item 3
-    - Nested item
-    - Nested item
+RDP : REMMINA
+
+OS : LINUX UBUNTU
+
+
+
+
+
+* Top-level item 1
+
+  * Nested item
+  * Nested item
+* Top-level item 2
+
+  * Nested item
+  * Nested item
+* Top-level item 3
+
+  * Nested item
+  * Nested item
 
 1. Top-level item 1
-    1. Nested item
-    2. Nested item
+
+   1. Nested item
+   2. Nested item
 2. Top-level item 2
-    1. Nested item
-    2. Nested item
+
+   1. Nested item
+   2. Nested item
 3. Top-level item 3
-    1. Nested item
-    2. Nested item
+
+   1. Nested item
+   2. Nested item
 
 Term
 : Description of the term
