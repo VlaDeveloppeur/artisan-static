@@ -1,12 +1,9 @@
 ---
-title: '01 - Dummy Post'
-date: 2020-10-28
-tags:
-  - css
-  - javascript
-  - php
-  - laravel
+title: 01 - Adaptation à l'environnement de travail
+date: 2022-02-18
+tags: []
 image: https://res.cloudinary.com/artisanstatic/sample.jpg
+comments: true
 ---
 ## Heading 2
 
