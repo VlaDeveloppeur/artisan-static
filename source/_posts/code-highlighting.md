@@ -6,7 +6,7 @@ comments: false
 ---
 Suite à l'initialisation du Projet, nommé MyCoV2 une tâche m’est directement attribuée, je suis sur le projet comme les autres.
 
-Le projet est développé en Typescript avec le framework Angular.
+Le projet est développé en **Typescript** avec le framework **Angular**.
 
 La tâche qui m’est confiée est le développement d’une page qui liste les locataires grâce au web service `ListLocataire`.
 
@@ -17,8 +17,6 @@ L’interface doit logiquement est similaire aux autres listes présentes sur le
 La possibilité de faire des tris, une recherche simple et une recherche en tapant CTRL+U est possible.
 
 Pour cela j’ai créé permis de très nombreux modules, un nouveau nommé Locataire qui vas contenir `listLocataire` et ensuite `printLocataire`
-
-
 
 ## HTML (and XML)
 
