@@ -54,7 +54,7 @@ Pour cela il y a de très nombreux modules, je crée un nouveau nommé Locataire
 </mat-card>
 ```
 
-## Extrait TS de `liste-locataire.component.html`
+## Extrait TS de `liste-locataire.component.ts`
 
 ```typescript
 window._ = require('lodash');
