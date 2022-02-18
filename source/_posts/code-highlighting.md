@@ -1,7 +1,7 @@
 ---
 title: 02 - Première mission, création de la liste de contrat de location
 date: 2021-11-20
-image: https://res.cloudinary.com/artisanstatic/code.jpg
+image: https://res.cloudinary.com/den5s58yx/image/upload/v1645197873/Crypto/Capture_d_%C3%A9cran_du_2021-12-16_17-45-19_p5murz.png
 comments: false
 ---
 Below are some examples of code blocks with syntax highlighting.
