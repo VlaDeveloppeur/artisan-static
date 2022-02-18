@@ -4,11 +4,19 @@ date: 2021-11-20
 image: https://res.cloudinary.com/den5s58yx/image/upload/v1645197873/Crypto/Capture_d_%C3%A9cran_du_2021-12-16_17-45-19_p5murz.png
 comments: false
 ---
-Below are some examples of code blocks with syntax highlighting.
+Suite à l'initialisation du Projet, nommé MyCoV2 une tâche m’est directement attribuée, je suis sur le projet comme les autres.
 
-Go to `source/_assets/js/highlight.js` to view/change the registered languages.
+Le projet est développé en **Typescript** avec le framework **Angular**.
 
-Go to `source/_assets/sass/main.scss` to change the theme.
+La tâche qui m’est confiée est le développement d’une page qui liste les locataires grâce au web service `ListLocataire`.
+
+En effet, nous utilisons un `webservice` pour récupérer les données de la base 4D que l’on va utiliser dans le projet.
+
+L’interface doit logiquement est similaire aux autres listes présentes sur le site.
+
+La possibilité de faire des tris, une recherche simple et une recherche en tapant CTRL+U est possible.
+
+Pour cela j’ai créé permis de très nombreux modules, un nouveau nommé Locataire qui vas contenir `listLocataire` et ensuite `printLocataire`
 
 ## HTML (and XML)
 
