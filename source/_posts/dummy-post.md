@@ -2,7 +2,7 @@
 title: 01 - Adaptation à l'environnement de travail
 date: 2022-02-18
 tags: []
-image: https://res.cloudinary.com/artisanstatic/sample.jpg
+image: https://fr.techtribune.net/wp-content/uploads/2020/08/GG-app-1.jpg
 comments: true
 ---
 ## Heading 2
@@ -19,27 +19,33 @@ This is [an example](http://example.com/ "Title") inline link.
 
 Image - Jigsaw logo
 
-![Jigsaw logo](https://cloud.githubusercontent.com/assets/357312/25055001/5603687e-212e-11e7-8fad-0b33dbf7fb71.png)
+![Jigsaw logo]()
 
-- Top-level item 1
-    - Nested item
-    - Nested item
-- Top-level item 2
-    - Nested item
-    - Nested item
-- Top-level item 3
-    - Nested item
-    - Nested item
+* Top-level item 1
+
+  * Nested item
+  * Nested item
+* Top-level item 2
+
+  * Nested item
+  * Nested item
+* Top-level item 3
+
+  * Nested item
+  * Nested item
 
 1. Top-level item 1
-    1. Nested item
-    2. Nested item
+
+   1. Nested item
+   2. Nested item
 2. Top-level item 2
-    1. Nested item
-    2. Nested item
+
+   1. Nested item
+   2. Nested item
 3. Top-level item 3
-    1. Nested item
-    2. Nested item
+
+   1. Nested item
+   2. Nested item
 
 Term
 : Description of the term
