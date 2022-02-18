@@ -18,7 +18,7 @@ La possibilité de faire des tris, une recherche simple et une recherche en tapa
 
 Pour cela il y a de très nombreux modules, je crée un nouveau nommé Locataire qui vas contenir `listLocataire` et ensuite `printLocataire` que l'on verra par la suite.
 
-## Extrait de HTML
+## Extrait HTML DE `liste-locataire.component.html`
 
 ```html
 <ng-keyboard-shortcuts [shortcuts]="shortcuts"></ng-keyboard-shortcuts>
@@ -54,7 +54,7 @@ Pour cela il y a de très nombreux modules, je crée un nouveau nommé Locataire
 </mat-card>
 ```
 
-## Extrait de TS
+## Extrait TS de `liste-locataire.component.html`
 
 ```typescript
 window._ = require('lodash');
