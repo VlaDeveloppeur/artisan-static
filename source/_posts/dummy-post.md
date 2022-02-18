@@ -14,11 +14,11 @@ Le deux premiers jours d'alternance est dédié à la présentation de l’équi
 Des règles pour le respect de chacun sont établies naturellement au sein de l'entreprise dont le fait de:
 
 * Passer dans les locaux et saluer tout le monde
-* Se laver les mains à l'arrivée avec du gel hydroalcoolique 
+* Se laver les mains à l'arrivée avec du gel hydroalcoolique
 
+## Installation du poste :
 
-
-
+SIUUUUUUUUUUUUUUUUUU
 
 ## Outils :
 
