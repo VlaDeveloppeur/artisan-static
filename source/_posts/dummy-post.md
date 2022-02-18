@@ -2,24 +2,30 @@
 title: 01 - Adaptation à l'environnement de travail
 date: 2022-02-18
 tags: []
-image: https://fr.techtribune.net/wp-content/uploads/2020/08/GG-app-1.jpg
+image: https://res.cloudinary.com/den5s58yx/image/upload/v1645195321/Crypto/Capture_d_%C3%A9cran_du_2022-02-18_15-41-20_dxvbt4.png
 comments: true
 ---
-## Heading 2
+## Présentation et installation du poste :
 
-### Heading 3
 
-**Bold Text**
 
-*Italic Text*
+## Outils :
 
-This is [an example](http://example.com/ "Title") inline link.
+IDE : VSCODE
 
-[This link](http://example.net/) has no title attribute.
+LANGUAGE DEV : TYPESCRIPT AVEC FRAMEWORK ANGULAR
 
-Image - Jigsaw logo
+BDD : DBEAVER
 
-![Jigsaw logo]()
+WEB SERVICE : POSTMAN (REQUETE VERS 4D)
+
+RDP : REMMINA
+
+OS : LINUX UBUNTU
+
+
+
+
 
 * Top-level item 1
 
